@@ -2,3 +2,4 @@ Another file 123
 New feature 
 Feature 2
 Feature 3
+End of this file.
